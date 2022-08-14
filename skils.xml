@@ -1,8 +1,9 @@
-Git
-Bash
-Linux
-web testing
-Mobile testing
-SQL
-JMeter
-
+{
+"step1": "Git",
+"step2": "Bash",
+"step3": "Linux",
+"step4": "web testing",
+"step5": "Mobile testing",
+"step6": "SQL",
+"step7": "JMeter",
+}
